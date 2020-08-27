@@ -1,2 +1,2 @@
-# form-validator
+# Form-Validator
 Vanilla JS Project
